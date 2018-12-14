@@ -6,7 +6,7 @@ https://github.com/sindresorhus/query-string
 npm install query-string
 ```
 
-```
+```js
 const queryString = require();
 console.log(location.search);
 
