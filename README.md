@@ -2,7 +2,7 @@
 ---
 https://github.com/sindresorhus/query-string
 
-```
+```sh
 npm install query-string
 ```
 
