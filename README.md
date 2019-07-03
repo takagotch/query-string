@@ -58,6 +58,17 @@ queryString.stringify({foo: null});
 queryString.stringify({foo: undefined});
 ```
 
-```
+```html
+<form action="cgi-bin/test.cgi" method="get">
+  <input type="text" name="first" />
+  <input type="text" name="second" />
+  <input type="submit" />
+</from>
+
+<a href="foo.html"></a>
+<a href="bar.html"></a>
+
+<a href="foo.html?e0a72cb2a2c7">see my page!</a>
+<a href="bar.html?e0a72cb2a2c7">mine is better</a>
 ```
 
